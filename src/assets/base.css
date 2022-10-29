@@ -1,0 +1,13 @@
+:root{
+    --primary-color:#6979f8;
+    --primary-color-hover:#a5affb;
+    --second-color:#be52f2;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #fafafa;
+    color:#6979f8;
+    margin:0px;
+}
